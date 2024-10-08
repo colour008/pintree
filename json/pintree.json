@@ -449,6 +449,13 @@
             "title": "星链云",
             "icon": "https://logo.clearbit.com/starlinkcloud.pw",
             "url": "https://starlinkcloud.pw/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1728821209656,
+            "title": "Releases · 2dust/v2rayN",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/2dust/v2rayN/releases"
           }
         ]
       },
@@ -511,7 +518,7 @@
             "addDate": 1718028856454,
             "title": "专注于Win7",
             "icon": "https://logo.clearbit.com/www.newxitong.com",
-            "url": "http://www.newxitong.com/#content"
+            "url": "https://www.newxitong.com/"
           },
           {
             "type": "link",
@@ -519,6 +526,13 @@
             "title": "专注于Win10",
             "icon": "https://logo.clearbit.com/iwin10.net",
             "url": "http://iwin10.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728487368460,
+            "title": "纯净版系统_Win10纯净版64位_纯净版XP系统-爱纯净官网",
+            "icon": "https://logo.clearbit.com/www.aichunjing.com",
+            "url": "https://www.aichunjing.com/"
           },
           {
             "type": "link",
@@ -1009,6 +1023,34 @@
             "title": "资源下载 - 释怀",
             "icon": "https://logo.clearbit.com/shiove.com",
             "url": "https://shiove.com/download.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1728485131477,
+            "title": "支持八代九代CPU的驱动工具_驱动总裁_【官网】",
+            "icon": "https://logo.clearbit.com/www.sysceo.com",
+            "url": "https://www.sysceo.com/dc"
+          },
+          {
+            "type": "link",
+            "addDate": 1728488067908,
+            "title": "Mocreak - 一键安装 Office 的利器",
+            "icon": "https://logo.clearbit.com/www.mocreak.com",
+            "url": "https://www.mocreak.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728805780822,
+            "title": "IT豪哥-电脑教程网",
+            "icon": "https://logo.clearbit.com/www.ithaoge.cn",
+            "url": "https://www.ithaoge.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730599489726,
+            "title": "绿软小站 - 分享绿色软件、免费软件、最新资讯！",
+            "icon": "https://logo.clearbit.com/www.gndown.com",
+            "url": "https://www.gndown.com/"
           }
         ]
       },
@@ -1664,13 +1706,6 @@
           {
             "type": "link",
             "addDate": 1718028856470,
-            "title": "Pages · colour008/colour008 - Gitee.com",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/colour008/colour008/pages"
-          },
-          {
-            "type": "link",
-            "addDate": 1718028856470,
             "title": "colour008的博客",
             "icon": "https://logo.clearbit.com/colour008.github.io",
             "url": "https://colour008.github.io/"
@@ -2171,6 +2206,41 @@
             "title": "Home | Oh My Posh",
             "icon": "https://logo.clearbit.com/ohmyposh.dev",
             "url": "https://ohmyposh.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728643035374,
+            "title": "Release v1.6.21 · chrisant996/clink",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/chrisant996/clink/releases/tag/v1.6.21"
+          },
+          {
+            "type": "link",
+            "addDate": 1728647301326,
+            "title": "60种编程语言学习书籍",
+            "icon": "https://logo.clearbit.com/www.aliyundrive.com",
+            "url": "https://www.aliyundrive.com/s/kpmzMoeKKWR"
+          },
+          {
+            "type": "link",
+            "addDate": 1729776154659,
+            "title": "JSON在线编辑器-奇Q工具网",
+            "icon": "https://logo.clearbit.com/qqe2.com",
+            "url": "https://qqe2.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729842944003,
+            "title": "校园网联合镜像站",
+            "icon": "https://logo.clearbit.com/mirrors.cernet.edu.cn",
+            "url": "https://mirrors.cernet.edu.cn/list"
+          },
+          {
+            "type": "link",
+            "addDate": 1730513393587,
+            "title": "Install 搜狗输入法 with winget - winstall",
+            "icon": "https://logo.clearbit.com/winstall.app",
+            "url": "https://winstall.app/apps/Sogou.SogouInput"
           }
         ]
       },
@@ -2675,6 +2745,27 @@
             "title": "OpenWrt固件与插件",
             "icon": "https://logo.clearbit.com/op.dllkids.xyz",
             "url": "https://op.dllkids.xyz/packages/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729428643695,
+            "title": "Tianling's Blog",
+            "icon": "https://logo.clearbit.com/blog.imouto.in",
+            "url": "https://blog.imouto.in/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729428657367,
+            "title": "如何自定义ImmortalWrt-悟空的日常",
+            "icon": "https://logo.clearbit.com/wkdaily.cpolar.cn",
+            "url": "https://wkdaily.cpolar.cn/archives/immortalwrt"
+          },
+          {
+            "type": "link",
+            "addDate": 1729428810135,
+            "title": "ImmortalWrt Firmware Selector",
+            "icon": "https://logo.clearbit.com/firmware-selector.immortalwrt.org",
+            "url": "https://firmware-selector.immortalwrt.org/"
           }
         ]
       },
@@ -2689,6 +2780,13 @@
             "title": "OpenWrt",
             "icon": "https://logo.clearbit.com/192.168.5.1",
             "url": "http://192.168.5.1/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728644033205,
+            "title": "OpenClash",
+            "icon": "https://logo.clearbit.com/192.168.5.1",
+            "url": "http://192.168.5.1:9090/ui/yacd/#/proxies"
           },
           {
             "type": "link",
@@ -2829,6 +2927,13 @@
             "title": "Releases · yaoxieyoulei/mytv-android",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/yaoxieyoulei/mytv-android/releases"
+          },
+          {
+            "type": "link",
+            "addDate": 1728658970236,
+            "title": "Subscription Converter",
+            "icon": "https://logo.clearbit.com/sub-api.pw",
+            "url": "https://sub-api.pw/"
           }
         ]
       },
