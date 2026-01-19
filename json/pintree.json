@@ -456,6 +456,13 @@
             "title": "星链云",
             "icon": "https://logo.clearbit.com/www.starlinkcloud.me",
             "url": "https://www.starlinkcloud.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1768307949463,
+            "title": "养鸡场",
+            "icon": "https://logo.clearbit.com/my.xfltd.org",
+            "url": "https://my.xfltd.org/#/dashboard"
           }
         ]
       },
@@ -2469,13 +2476,6 @@
           {
             "type": "link",
             "addDate": 1718028856476,
-            "title": "banner生成图像的网站有哪些？_wojiaohb的博客-CSDN博客_baner生成",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/wojiaohb/article/details/106146821"
-          },
-          {
-            "type": "link",
-            "addDate": 1718028856476,
             "title": "visualising data structures and algorithms through animation - VisuAlgo",
             "icon": "https://logo.clearbit.com/visualgo.net",
             "url": "https://visualgo.net/en"
@@ -2804,10 +2804,10 @@
           },
           {
             "type": "link",
-            "addDate": 1767236420368,
-            "title": "JamHoo的知识库",
-            "icon": "https://logo.clearbit.com/colour008.qzz.io",
-            "url": "https://colour008.qzz.io/#/"
+            "addDate": 1767535835383,
+            "title": "JamHoo的笔记",
+            "icon": "https://logo.clearbit.com/colour008.de5.net",
+            "url": "https://colour008.de5.net/"
           },
           {
             "type": "link",
@@ -2832,10 +2832,38 @@
           },
           {
             "type": "link",
+            "addDate": 1718028856478,
+            "title": "iconfont-阿里巴巴矢量图标库",
+            "icon": "https://logo.clearbit.com/www.iconfont.cn",
+            "url": "https://www.iconfont.cn/"
+          },
+          {
+            "type": "link",
             "addDate": 1736509791980,
             "title": "图标搜索",
             "icon": "https://logo.clearbit.com/www.flaticon.com",
             "url": "https://www.flaticon.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718028856476,
+            "title": "徽章在线生成",
+            "icon": "https://logo.clearbit.com/shields.io",
+            "url": "https://shields.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718028856477,
+            "title": "Simple Icons",
+            "icon": "https://logo.clearbit.com/simpleicons.org",
+            "url": "https://simpleicons.org/?q=gitee"
+          },
+          {
+            "type": "link",
+            "addDate": 1718028856476,
+            "title": "banner生成图像的网站有哪些？_wojiaohb的博客-CSDN博客_baner生成",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/wojiaohb/article/details/106146821"
           },
           {
             "type": "link",
@@ -2888,20 +2916,6 @@
           },
           {
             "type": "link",
-            "addDate": 1718028856476,
-            "title": "徽章在线生成",
-            "icon": "https://logo.clearbit.com/shields.io",
-            "url": "https://shields.io/"
-          },
-          {
-            "type": "link",
-            "addDate": 1718028856477,
-            "title": "Simple Icons",
-            "icon": "https://logo.clearbit.com/simpleicons.org",
-            "url": "https://simpleicons.org/?q=gitee"
-          },
-          {
-            "type": "link",
             "addDate": 1733631814767,
             "title": "去不图床",
             "icon": "https://logo.clearbit.com/7bu.top",
@@ -2927,13 +2941,6 @@
             "title": "Font Awesome",
             "icon": "https://logo.clearbit.com/fontawesome.com",
             "url": "https://fontawesome.com/search?q=git&o=r"
-          },
-          {
-            "type": "link",
-            "addDate": 1718028856478,
-            "title": "iconfont-阿里巴巴矢量图标库",
-            "icon": "https://logo.clearbit.com/www.iconfont.cn",
-            "url": "https://www.iconfont.cn/"
           },
           {
             "type": "link",
@@ -3116,6 +3123,27 @@
             "title": "RGB 17, 170, 99 color",
             "icon": "https://logo.clearbit.com/convertingcolors.com",
             "url": "https://convertingcolors.com/rgb-color-17_170_99.html?search=RGB(17,%20170,99)"
+          },
+          {
+            "type": "link",
+            "addDate": 1767536269695,
+            "title": "VitePress",
+            "icon": "https://logo.clearbit.com/vitepress.dev",
+            "url": "https://vitepress.dev/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1767706416306,
+            "title": "Complete list of available SVG logos - Vector Logo Zone",
+            "icon": "https://logo.clearbit.com/www.vectorlogo.zone",
+            "url": "https://www.vectorlogo.zone/logos/"
+          },
+          {
+            "type": "link",
+            "addDate": 1767707921902,
+            "title": "abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile which updates in real time",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file"
           }
         ]
       },
@@ -3354,6 +3382,27 @@
             "title": "短链生成",
             "icon": "https://logo.clearbit.com/home.suowo.cn",
             "url": "https://home.suowo.cn/ucenter/member/info/overview.htm"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1768707887613,
+        "title": "项目",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1768707902613,
+            "title": "RuoYi",
+            "icon": "https://logo.clearbit.com/doc.ruoyi.vip",
+            "url": "https://doc.ruoyi.vip/ruoyi/"
+          },
+          {
+            "type": "link",
+            "addDate": 1768724277585,
+            "title": "若依管理系统RuoYi-Vue（三）：代码生成器原理和实战 - 狂盗一枝梅 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/kuangdaoyizhimei/p/14452736.html"
           }
         ]
       },
